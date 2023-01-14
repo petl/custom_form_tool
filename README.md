@@ -1,7 +1,7 @@
 # Customs form tool for https://www.post.at/en/n/f/customs-form
 Script to automatically create customs forms for the Austrian Post (Österreichische Post - Zollformular). It takes a csv file and feeds the data into the customs form via the chromium chromedriver.
 
-<img src='https://github.com/petl/customs_form_tool/blob/main/screenshot/postat_customs.png' width='100%'>
+<img src='https://github.com/petl/customs_form_tool/blob/main/screenshot/customs_chromium.png' width='100%'>
 
 #### How to get it running
 
@@ -17,6 +17,8 @@ After that start the tool with
 > python3 main_v3.py
 
 It opens up a chromium, inputs all the data from address.csv and downloads the created form to the ./pdf folder. 
+
+<img src='https://github.com/petl/customs_form_tool/blob/main/screenshot/terminal.png' width='100%'>
 
 #### Disclaimer
 
