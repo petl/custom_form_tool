@@ -1,0 +1,36 @@
+"Sender","Sender address
+Company","Sender address
+First and last name","Sender address
+Street","Sender address
+Number","Sender address
+Postcode","Sender address
+City","Sender address
+Country","Sender address
+E-mail address","Sender address
+Country code","Sender address
+Phone number","Recipient
+Company","Recipient
+First and last name*","Recipient
+Street","Recipient
+Number","Recipient
+City","Recipient
+Country","Recipient
+Region","Recipient
+E-mail address","Recipient
+County code","Recipient
+Phone number","Item category","Currency","Description of content
+Description of content","Description of content
+Quantity","Description of content
+Net weight in kg per unit","Description of content
+(CUSTOMS) VALUE in EUR per unit","Description of content
+Tariff number","Description of content
+Country of origin of merchandise","Additional information
+Gross weight in kg  ","Additional information
+Information about the importer","Additional information
+Approval number","Additional information
+Certificate number","Additional information
+Invoice number","Additional information
+Special remarks","If undeliverable"
+"Business","Your company Ltd.","Gustav Gans","Gansenstreet",223,1234,"Ganstown","Austria","gustav@gans.com","+43 (Österreich)",,,"Mickey Mouse","Mousestreet",4,"Mousevillage","CA - Kanada",,"mickey@mouse.com",,,,"EUR","Cheese balls",1,"3,5",120,123456,"AT - Österreich",,,,,,,"Return to sender (fee applies)"
+"Business","Your company Ltd.","Gustav Gans","Gansenstreet",223,1234,"Ganstown","Austria","gustav@gans.com","+43 (Österreich)",,,"Minnie Mouse","Moneylane",10,"Towntown","GB - Grossbritannien - nordirland",,"minnie@mouse.com",,,,"USD","Clothes",2,"0,7",10,123456,"AT - Österreich",,,,,,,"Return to sender (fee applies)"
+"Business","Your company Ltd.","Gustav Gans","Gansenstreet",223,1234,"Ganstown","Austria","gustav@gans.com","+43 (Österreich)",,,"Goofy","Dogstreet",5577,"Barkington","US - Vereinigte staaten von amerika",,"goofy@dogdog.com",,,,"EUR","Dogfood",10,"1","13,99",654321,"AT - Österreich",,,,,,,"Return to sender (fee applies)"
