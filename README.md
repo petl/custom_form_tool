@@ -6,7 +6,7 @@ Script to automatically create customs forms for the Austrian Post (Österreichi
 #### How to get it running
 
 I've tested this on Ubuntu 22.04, but other operating systems like Windows or MacOS should work as well. You need to install chromium:
-> apt install chromium
+> sudo apt install chromium
 
 Then download the fitting version of chromedriver:
 https://chromedriver.chromium.org/downloads
